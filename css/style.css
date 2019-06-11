@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-size: 14px;
+	font-family: 14px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei",
+	"Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+}
+header{
+	color: white;
+	overflow: auto;
+	background-color:aquamarine;
+	text-align: center;
+}
+header>h1{
+	font-size:30px;
+}
+header>h3>span:first-child{
+	font-size:25px;
+}
+#btn{
+	color: royalblue;
+	cursor: pointer;
+}
+#wrap>ul{
+	font-size:25px;
+	background-color: aliceblue;
+	list-style-type:none;
+}
+#wrap>ul>li{
+	height:70px;
+}
+#wrap img{
+	width: 50px;
+}
